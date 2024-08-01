@@ -1,0 +1,14 @@
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\obj\Debug\net8.0\cadastroDeFilmesSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\obj\Debug\net8.0\cadastroDeFilmesSeries.AssemblyInfoInputs.cache
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\obj\Debug\net8.0\cadastroDeFilmesSeries.AssemblyInfo.cs
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\obj\Debug\net8.0\cadastroDeFilmesSeries.csproj.CoreCompileInputs.cache
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\bin\Debug\net8.0\cadastroDeFilmesSeries.exe
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\bin\Debug\net8.0\cadastroDeFilmesSeries.deps.json
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\bin\Debug\net8.0\cadastroDeFilmesSeries.runtimeconfig.json
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\bin\Debug\net8.0\cadastroDeFilmesSeries.dll
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\bin\Debug\net8.0\cadastroDeFilmesSeries.pdb
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\obj\Debug\net8.0\cadastroDeFilmesSeries.dll
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\obj\Debug\net8.0\refint\cadastroDeFilmesSeries.dll
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\obj\Debug\net8.0\cadastroDeFilmesSeries.pdb
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\obj\Debug\net8.0\cadastroDeFilmesSeries.genruntimeconfig.cache
+C:\Users\vyudi\source\repos\cadastroDeFilmesSeries\cadastroDeFilmesSeries\obj\Debug\net8.0\ref\cadastroDeFilmesSeries.dll
